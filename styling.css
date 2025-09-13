@@ -1,0 +1,215 @@
+/*||Body Of All Pages*/
+body{
+  font-size: 1rem;
+  background-image: url("../Laradys Food Basket Website/Background");
+  background-size: cover;
+}
+
+/*||Main Page Heading*/
+h1{
+  color: black;
+  font-style: oblique; 
+  border: 5px solid lightskyblue;
+  border-radius: 10px;
+  background: lightgray;
+  background-size: cover;
+  text-align: center;
+  margin-top: 0;
+}
+
+/*||Paragraph In All Pages*/
+p{
+  color: midnightblue;
+  font-style: italic;
+  font-weight: bolder;
+  text-align: center;
+  font-size: 90px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/*||Words Before Login Input*/
+form,label{
+  font-weight: bolder;
+  font-size: 30px;
+  color: midnightblue;
+  line-height: 2rem;
+  text-align: center;
+ }
+ 
+ /*||Table Headings*/
+th{
+  padding: 0;
+  background: lightgray;
+}
+
+/*||Table*/
+table{
+  width: 350px;
+  border: 4px solid black;
+  background-image: align;
+  border-radius: 10px;
+}
+
+/*||Items Price*/ 
+td{
+  color: yellowgreen;
+  font-style: oblique;
+  line-height: 2rem;
+  font-size: 1rem;
+  background-image: url("../Laradys Food Basket Website/Image");
+  background-size: cover;
+  font-weight: 900;
+}
+
+/*||Links In All Pages*/
+a, a:focus, a:hover{
+  font-weight: bolder;
+ text-decoration: none;
+  color: black;
+  text-align: center;
+}
+
+/*||All Items In Signing In Page*/
+main{
+  font-style: 50px;
+  line-height: 2rem;
+} 
+
+/*||Link In Customer Care*/
+p a {
+  display: inline-block;
+  background: darkgray;
+  color: firebrick;
+  font-size: 20px;
+  text-align: center;
+  border: 5px solid lightskyblue; 
+  border-radius: 6px;
+}
+
+/*||Table Background In All First Roll*/
+.food{
+  background: skyblue;
+  padding-bottom: 0;
+}
+
+/*||Unordered Lists In All Pages*/
+ul{
+  list-style-type: none;
+  text-align: center;
+}
+
+/*||Login Button In Login Page*/
+div li a .login{
+  background: lightgray;
+  color: firebrick;
+  border: 7.5px outset lightskyblue;
+  border-radius: 6px;
+  font-size: 40px;
+}
+
+/*||Sign In Button*/
+main li a{
+  font-size: 30px;
+  background-size: 30px;
+  background: lightgray;
+  color: maroon;
+  border: 7.5px outset lightskyblue;
+  border-radius: 10px;
+}
+
+/*||Logo*/
+div img{
+  border: 3px solid firebrick;
+  border-radius: 50%;
+  width: 200px;
+  height: auto;
+}
+
+/*||Login Page Head*/
+header{
+  color: firebrick;
+  text-align: center;
+  font-style: italic;
+  font-weight: 900;
+  border: 3px outset lightskyblue;
+  background-color: lightgray;
+  border-radius: 6px;
+  font-size: 40px;
+  margin-top: 0px;
+}
+
+/*||Words In Signing Page*/
+main p{
+  font-weight: bolder;
+  font-size: 50px;
+  color: midnightblue;
+  }
+  
+  /*||Login Page Footer*/
+footer{
+  font-size: 25px;
+  font-weight: 900;
+  margin-top: 25px; 
+  color: midnightblue;
+}
+
+/*||Links In The Login Page Footer*/
+footer a{
+  display: inline-block;
+  background: darkgray;
+  color: firebrick;
+  font-size: 25px;
+  text-align: center;
+  border: 3px solid lightskyblue;
+  border-radius: 6px;
+  width: 120px;
+}
+
+/*||Input In Login Page*/
+form input{
+  border: 3px outset lightskyblue;
+  border-radius: 10px;
+  height: 35px;
+  }
+  
+  /*||Input In Sign In Page*/
+p input{
+  border: 4px outset lightskyblue;
+  border-radius: 10px;
+  height: 45px;
+  width: 337px;
+  margin-top: 18px;
+}
+
+/* ||After Signing Page*/
+div p{
+  font-size: 52px;
+  font-weight: 800;
+  margin-top: 0.7px;
+  color: midnightblue;
+}
+
+/*||Link In After Signing Page*/
+div a{
+  font-size: 50px; 
+  margin-left: 10px;
+}
+
+/*||Customer Care*/
+footer p .customer {
+  font-size: 10.6px;
+  background: lightgray;
+  border: 6px outset skyblue;
+}
+
+/*||Link In Customer Care*/
+footer p .customer a{
+  font-size: 16px;
+  font-weight: 500;
+  width: 100px;
+  background: gold;
+  color: brown;
+  border: none;
+  height: 20px;
+}
